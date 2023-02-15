@@ -63,6 +63,7 @@ class Question(Updated):
     def __str__(self):
         return self.title
 
+
 class Answer(Updated):
     class Meta:
         verbose_name = _("Answer")
