@@ -7,6 +7,7 @@
 
 - Endpoints
 NAME                     | URI
+:------------------------|:----------------------------------:|
 -----------------------------------------------------------------------------
 * All quiz category      | /quiz
 * Random quiz category   | /random/category_name
